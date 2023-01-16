@@ -1,0 +1,33 @@
+body{align-items: center;
+background-image: url('https://img.freepik.com/premium-photo/colored-pencils-sheet-notes-lie-blue-background-top-view-background-todo-list-back-school_230115-2414.jpg?w=2000');}
+
+
+.task-container{
+  text-align: center;
+  padding: 50px;
+  padding-left: 750px;
+
+
+}
+
+.btn-container{
+  text-align: center;
+  padding: 80px;
+  }
+  button {
+    display: inline-block;
+    background-color: #8b2d84;
+    border-radius: 12px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    text-align: center;
+    font-size: 25px;
+    padding: 20px;
+    width: 200px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+input{font-style: italic;
+      font-weight:500;}
+text {font-style: italic;}
